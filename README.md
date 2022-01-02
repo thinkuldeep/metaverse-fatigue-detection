@@ -37,4 +37,5 @@ with 5G/6G adaption we could move to cloud based rendering could be solution.
 ## What next?
 Request the community to participate and build more on this line. I will share more on this.
 
-    
+## Acknowlegements
+Elements of AI, https://buildingai.elementsofai.com/
